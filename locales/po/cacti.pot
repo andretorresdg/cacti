@@ -25502,7 +25502,3 @@ msgstr ""
 #: include/global_settings.php
 msgid "Always-visible Icons"
 msgstr ""
-
-#: data_input.php
-msgid "Input string contains unsafe shell syntax."
-msgstr ""
